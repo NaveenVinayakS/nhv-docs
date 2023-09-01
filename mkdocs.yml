@@ -13,8 +13,8 @@ site_description: >-
   NHV Channel Documents
 
 # Repository
-repo_name: Vasanthengineer4949/nhv-docs
-repo_url: https://github.com/Vasanthengineer4949/nhv-docs
+repo_name: NaveenVinayakS/nhv-docs
+repo_url: https://github.com/NaveenVinayakS/nhv-docs
 
 # Configuration
 theme:
@@ -86,4 +86,4 @@ plugins:
       include_source: True
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/NaveenVinayakS"  target="_blank" rel="noopener">Vasanth</a>
+  &copy; 2023 <a href="https://github.com/NaveenVinayakS"  target="_blank" rel="noopener">Naveen Vinayak S</a>
