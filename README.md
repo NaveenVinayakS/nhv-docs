@@ -1,5 +1,6 @@
 # Welcome to Naveen Vinayak works
 
+
 ## Playlists Available right now
 Currently there are five playlists in Channel. They are:
 
@@ -45,6 +46,7 @@ Following are the videos available in the playlists right now
 
 🚀📊 Unleash the NLP Powerhouse: Transformers in Action! 🤖🔮 Ready to dive into the world of End-to-End NLP Projects? Welcome to the ultimate playlist that covers every conceivable task, every magic moment, and every mind-boggling application achievable with Transformers in the realm of Natural Language Processing. 🌐✨
 
+
 Following are the videos available in the playlists right now
 
 - **Chatbot** using FlanT5 and LoRA
@@ -58,6 +60,7 @@ Following are the videos available in the playlists right now
 ### ML Bootcamp
 
 🚀📊 Launch Your Machine Learning Journey: The Ultimate Beginner's Bootcamp! 🌟🔍 Ready to unravel the mysteries of Machine Learning project lifecycle? Welcome to the ML Expedition Bootcamp, a step-by-step guide to mastering every phase from Data Collection to Model Inferencing. 📈🔮
+
 
 Following are the videos available in the playlists:
 
@@ -77,6 +80,7 @@ Following are the videos available in the playlists:
 🔍📚 Dive into the World of Textual Representations: The Sentence Transformer Embeddings Exploration! 🌐✨
 
 Welcome to a journey of understanding the essence of representations! In this captivating playlist, we delve deep into the transformative magic of Sentence Transformers and their remarkable embeddings. 🚀🔮
+
 
 Following are the videos available in the playlist
 
