@@ -18,7 +18,6 @@ Currently there are five playlists in Channel. They are:
 
 📚🔬 Elevate your NLP knowledge with our Research Papers Demystified playlist! 🧠📝 Uncover the secrets behind the most impactful and trending papers in the field of Natural Language Processing
 
-**Playlist Link:** https://www.youtube.com/playlist?list=PLrzE9U41BOPCPXiwm_EE935SE3dh1P2tE  
 
 Following are the videos available in the playlists right now
 
@@ -31,8 +30,6 @@ Following are the videos available in the playlists right now
 ### LLMs Related
 
 🔥 Unleash the Power of Language Models! 💬✨ Dive into the world of cutting-edge AI with our Trending Concepts in LLMs Related playlist! 
-
-**Playlist Link:** https://www.youtube.com/playlist?list=PLrzE9U41BOPC8C_dWjgVgjmhb4J1GiUIZ 
 
 
 Following are the videos available in the playlists right now
@@ -48,8 +45,6 @@ Following are the videos available in the playlists right now
 
 🚀📊 Unleash the NLP Powerhouse: Transformers in Action! 🤖🔮 Ready to dive into the world of End-to-End NLP Projects? Welcome to the ultimate playlist that covers every conceivable task, every magic moment, and every mind-boggling application achievable with Transformers in the realm of Natural Language Processing. 🌐✨
 
-**Playlist Link:** https://www.youtube.com/playlist?list=PLrzE9U41BOPAZwfa9HiT51UNUHAJmh6lA 
-
 Following are the videos available in the playlists right now
 
 - **Chatbot** using FlanT5 and LoRA
@@ -63,8 +58,6 @@ Following are the videos available in the playlists right now
 ### ML Bootcamp
 
 🚀📊 Launch Your Machine Learning Journey: The Ultimate Beginner's Bootcamp! 🌟🔍 Ready to unravel the mysteries of Machine Learning project lifecycle? Welcome to the ML Expedition Bootcamp, a step-by-step guide to mastering every phase from Data Collection to Model Inferencing. 📈🔮
-
-**Playlist Link:** https://www.youtube.com/playlist?list=PLrzE9U41BOPCifLLV67xU0cn37DaU4b_Z 
 
 Following are the videos available in the playlists:
 
@@ -84,8 +77,6 @@ Following are the videos available in the playlists:
 🔍📚 Dive into the World of Textual Representations: The Sentence Transformer Embeddings Exploration! 🌐✨
 
 Welcome to a journey of understanding the essence of representations! In this captivating playlist, we delve deep into the transformative magic of Sentence Transformers and their remarkable embeddings. 🚀🔮
-
-**Playlist Link:** https://www.youtube.com/playlist?list=PLrzE9U41BOPAgZw7k8-iVGvKMIKLIC-Ky 
 
 Following are the videos available in the playlist
 
