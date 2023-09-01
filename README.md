@@ -1,9 +1,4 @@
-# Welcome to Neural Hacks with Vasanth
-
-Here is what you can expect from the channel
-
-Video Link: https://www.youtube.com/watch?v=gEZTjfoBW0Q&t=555s
-
+# Welcome to Naveen Vinayak works
 
 ## Playlists Available right now
 Currently there are five playlists in Channel. They are:
