@@ -4,13 +4,12 @@
 ## Playlists Available right now
 Currently there are five playlists in Channel. They are:
 
-|Playlist|Number of Videos|Status|
-|--------|----------------|------|
-|NLP Research Papers|4|Ongoing|
-|LLMs Related|4|Ongoing|
-|NLP Projectsv|4|Ongoing|
-|ML Bootcamp|7|Completed|
-|Transformer Embeddings|3|Completed|
+|Works|
+|--------|
+|NLP Research Papers|
+|LLMs Related|
+|NLP Projectsv|
+|Transformer Embeddings|
 
 
 ---
@@ -19,8 +18,6 @@ Currently there are five playlists in Channel. They are:
 
 📚🔬 Elevate your NLP knowledge with our Research Papers Demystified playlist! 🧠📝 Uncover the secrets behind the most impactful and trending papers in the field of Natural Language Processing
 
-
-Following are the videos available in the playlists right now
 
 - **LoRA** Paper Explanation and Implementation
 - **DPO** Paper Explanation and Implementation
@@ -32,8 +29,6 @@ Following are the videos available in the playlists right now
 
 🔥 Unleash the Power of Language Models! 💬✨ Dive into the world of cutting-edge AI with our Trending Concepts in LLMs Related playlist! 
 
-
-Following are the videos available in the playlists right now
 
 - **Finetune Llama2** under 50 lines in Google Colab using QLoRA
 - **Deploy Local LLM** Like a ChatGPT Chatbot
@@ -47,8 +42,6 @@ Following are the videos available in the playlists right now
 🚀📊 Unleash the NLP Powerhouse: Transformers in Action! 🤖🔮 Ready to dive into the world of End-to-End NLP Projects? Welcome to the ultimate playlist that covers every conceivable task, every magic moment, and every mind-boggling application achievable with Transformers in the realm of Natural Language Processing. 🌐✨
 
 
-Following are the videos available in the playlists right now
-
 - **Chatbot** using FlanT5 and LoRA
 - **Text Classifier** using DistilBERT
 - **AI In Cricket-1 ->** Cricket Post Match Report Generation using Live Commentary
@@ -57,23 +50,6 @@ Following are the videos available in the playlists right now
 
 ---
 
-### ML Bootcamp
-
-🚀📊 Launch Your Machine Learning Journey: The Ultimate Beginner's Bootcamp! 🌟🔍 Ready to unravel the mysteries of Machine Learning project lifecycle? Welcome to the ML Expedition Bootcamp, a step-by-step guide to mastering every phase from Data Collection to Model Inferencing. 📈🔮
-
-
-Following are the videos available in the playlists:
-
-- Introduction to ML Lifecycle
-- EDA and its Importance
-- Handling Missing Values
-- Handling Categorical Values and Outliers
-- Feature Scaling and Transformations
-- Feature Selection, Train Test Split and Model Creation
-- Model Hyperparameter Tuning
-
-
----
 
 ### Transformer Embeddings
 
@@ -81,8 +57,6 @@ Following are the videos available in the playlists:
 
 Welcome to a journey of understanding the essence of representations! In this captivating playlist, we delve deep into the transformative magic of Sentence Transformers and their remarkable embeddings. 🚀🔮
 
-
-Following are the videos available in the playlist
 
 - **Generating Embeddings** from Sentence Transformers
 - **Reducing Dimension** of Embeddings using UMAP
